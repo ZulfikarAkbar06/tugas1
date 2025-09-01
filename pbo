@@ -1,0 +1,19 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ */
+
+package com.mycompany.mavenproject1;
+
+/**
+ *
+ * @author User
+ */
+public class Mavenproject1 {
+
+    public static void main(String[] args) {
+        System.out.println("Nama : Zulfikar Akbar");
+        System.out.println("Npm : 2440506055");
+        System.out.println("Alamat : Wates, Kota Magelang");
+        System.out.println("No_Hp : 085709264834");
+    }
+}
